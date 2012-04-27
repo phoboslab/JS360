@@ -1,0 +1,7 @@
+*.suo
+*.csproj.user
+bin/
+obj/
+*.chachefile
+*.Debug.cachefile
+*.ccgame 
